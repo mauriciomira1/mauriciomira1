@@ -33,4 +33,6 @@
 <h2>Meu Portifólio</h2>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mauriciomira1&repo=controle-de-estoque)](https://github.com/mauriciomira1/controle-de-estoque)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mauriciomira1&repo=MM-notes)](https://github.com/mauriciomira1/MM-notes)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mauriciomira1&repo=miniBlog)](https://github.com/mauriciomira1/miniBlog)
 
