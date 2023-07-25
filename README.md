@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente eu trabalho com Front End
-- 🌱 Estou me aprofundando em React, NextJS e Firebase
+- 🌱 Domino principalmente React, Typescript, NextJS, e Firebase
 - 📫 Contate-me por email: mauriciomirandagomes@gmail.com ou WP: +55(61)99445-1455
 
 
