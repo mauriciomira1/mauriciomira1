@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente eu trabalho como Fullstack Dev
-- 🌱 Domino principalmente React, Typescript, NextJS, NodeJS, Banco de dados relacional e não-relacional
+- 🌱 Domino principalmente React, Typescript, NextJS, NodeJS, MongoDB, PostgreSQL
 - 📫 Contate-me por email: mauriciomirandagomes@gmail.com ou WP: +55(61)99445-1455
 
 
@@ -20,6 +20,7 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
 </div>
 
 ##
