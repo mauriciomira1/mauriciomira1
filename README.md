@@ -1,8 +1,8 @@
-### Olá! Eu sou o Maurício Miranda  👋
+### Olá! Eu sou o Maurício Miranda  👋 
 
 
-- 🔭 Atualmente eu trabalho com Front End
-- 🌱 Domino principalmente React, Typescript, NextJS, e Firebase
+- 🔭 Atualmente eu trabalho como Fullstack Dev
+- 🌱 Domino principalmente React, Typescript, NextJS, NodeJS, Banco de dados relacional e não-relacional
 - 📫 Contate-me por email: mauriciomirandagomes@gmail.com ou WP: +55(61)99445-1455
 
 
