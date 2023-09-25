@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Maurício Miranda  👋 
 
 
-- 🔭 Atualmente eu trabalho como Fullstack Dev
+- 🔭 Sou um Fullstack Dev do Brasil
 - 🌱 Domino principalmente React, Typescript, NextJS, NodeJS, MongoDB, PostgreSQL
 - 📫 Contate-me por email: mauriciomirandagomes@gmail.com ou WP: +55(61)99445-1455
 
