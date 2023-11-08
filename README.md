@@ -3,7 +3,7 @@
 
 - 🔭 Sou um Fullstack Dev do Brasil
 - 🌱 Domino principalmente React, Typescript, NextJS, Banco de dados relacionais e não relacionais (MongoDB, PostgreSQL), Git, Github, além de diversas ferramentas/metodologias relacionadas a Front e Back end, tais como Figma, Tailwindcss, SASS, API RESTful, Conventional Commits, Stripe para pagamentos, NextAuth para autenticação, etc.
-- 
+  
 - 📫 Contate-me por email: mauriciomirandagomes@gmail.com ou WP: +55(61)99445-1455
 
 
