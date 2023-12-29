@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Maurício Miranda  👋 
 
 
-- 🔭 Sou um Fullstack Dev do Brasil
+- 🔭 Sou um Front End Dev do Brasil
 - 🌱 Domino principalmente React, React Native, Typescript, NextJS, Banco de dados relacionais e não relacionais (MongoDB, PostgreSQL), Git, Github, além de diversas ferramentas/metodologias relacionadas a Front e Back end, tais como Figma, Styled Components, SASS, API RESTful, Conventional Commits, etc.
   
 - 📫 Contate-me por email: mauriciomirandagomes@gmail.com ou WP: +55(61)99445-1455
