@@ -35,7 +35,7 @@
 <h2>Meu Portifólio</h2>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mauriciomira1&repo=gamatech-store)](https://github.com/mauriciomira1/gamatech-store)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mauriciomira1&repo=MissaCifras)](https://github.com/mauriciomira1/MissaCifras)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mauriciomira1&repo=MissaCifras)](https://github.com/mauriciomira1/MissaCifras3.0)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mauriciomira1&repo=controle-de-estoque)](https://github.com/mauriciomira1/controle-de-estoque)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mauriciomira1&repo=miniBlog)](https://github.com/mauriciomira1/miniBlog)
 
