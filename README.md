@@ -2,9 +2,10 @@
 
 
 - 🔭 Sou um Back End Java do Brasil
+
 - 🌱 Experiente em engenharia de software, especializado em Java e tecnologias essenciais para implantação, testes, autenticação e monitoramento, como Spring Boot, JSON Web Token (JWT), JUnit, Mockito, DDD, JPA, Swagger, Grafana e Prometheus.io. Com seis anos de experiência na coordenação de equipes multidisciplinares e um histórico comprovado na criação de soluções escaláveis e eficientes, estou focado em aplicar essa expertise para desenvolver software robusto e de alta performance.
 
-Foco em Back-End com Flexibilidade Fullstack: Aprofundo continuamente minhas habilidades em Java para desenvolver arquiteturas de backend resilientes e seguras, além de ter uma base sólida em desenvolvimento front-end usando Javascript, Typescript, React e Next.js. Esta combinação me permite integrar de maneira estratégica a usabilidade com eficiência e segurança na arquitetura backend.
+- Foco em Back-End com Flexibilidade Fullstack: Aprofundo continuamente minhas habilidades em Java para desenvolver arquiteturas de backend resilientes e seguras, além de ter uma base sólida em desenvolvimento front-end usando Javascript, Typescript, React e Next.js. Esta combinação me permite integrar de maneira estratégica a usabilidade com eficiência e segurança na arquitetura backend.
   
 - 📫 Contate-me por email: mauriciomirandagomes@gmail.com ou WP: +55(61)99445-1455
 
