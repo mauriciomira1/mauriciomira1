@@ -8,6 +8,11 @@
 - Foco em Back-End com Flexibilidade Fullstack: Aprofundo continuamente minhas habilidades em Java para desenvolver arquiteturas de backend resilientes e seguras, além de ter uma base sólida em desenvolvimento front-end usando Javascript, Typescript, React e Next.js. Esta combinação me permite integrar de maneira estratégica a usabilidade com eficiência e segurança na arquitetura backend.
 
 #### Meu projeto principal para o meu portifólio é: https://github.com/mauriciomira1/espaco-alcancar-app-api
+- É uma aplicação para uma clínica infantil de terapias. Onde o pai do paciente se cadastrará para obter acesso às ferramentas disponíveis.
+- Criei uma dashboard para o pai poder avaliar a clínica, adicionar/excluir dependentes, alterar os dados;
+- Ter acesso aos materiais que a clínica vai disponibilizar para download;
+- Preenchimento de um perfil específico utilizado pelas profissionais para avaliação da criança, chamado Perfil Sensorial (esse perfil só aparece quando o profissional libera para o pai);
+- Estou criando uma dashboard para os profissionais também para disponibilização do perfil, resultados do perfil com cálculos automatizados
 
   
 - 📫 Contate-me por email: mauriciomirandagomes@gmail.com ou WP: +55(61)99445-1455
