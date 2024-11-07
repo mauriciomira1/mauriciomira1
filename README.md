@@ -7,7 +7,7 @@
 
 - Foco em Back-End com Flexibilidade Fullstack: Aprofundo continuamente minhas habilidades em Java para desenvolver arquiteturas de backend resilientes e seguras, além de ter uma base sólida em desenvolvimento front-end usando Javascript, Typescript, React e Next.js. Esta combinação me permite integrar de maneira estratégica a usabilidade com eficiência e segurança na arquitetura backend.
 
-#### Meu projeto principal para o meu portifólio é: https://github.com/mauriciomira1/espaco-alcancar-app-api
+#### Meu projeto JAVA principal para o meu portifólio é: https://github.com/mauriciomira1/espaco-alcancar-app-api
 - É uma aplicação para uma clínica infantil de terapias. Onde o pai do paciente se cadastrará para obter acesso às ferramentas disponíveis.
 - Criei uma dashboard para o pai poder avaliar a clínica, adicionar/excluir dependentes, alterar os dados;
 - Ter acesso aos materiais que a clínica vai disponibilizar para download;
